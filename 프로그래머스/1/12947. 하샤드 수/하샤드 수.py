@@ -1,7 +1,6 @@
 def solution(x):
     answer = True
     digits = 1
-    count = 1
     value = 0
     
     while x // digits != 0:
